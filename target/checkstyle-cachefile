@@ -1,0 +1,4 @@
+#Fri Sep 04 23:18:55 AEST 2020
+configuration*?=217FFEEEDA910F7077CB39D38A941E4348658A6C
+module-resource*?\:checkstyle/suppressions.xml=C7D7EA7C58962283A82C0E3D548724C35F2B7E34
+/home/flacko/Coding/Java/testplugin/src/main/java/me/flacko/testplugin/Master.java=1599225527893

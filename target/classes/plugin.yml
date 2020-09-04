@@ -1,0 +1,4 @@
+name: 'testplugin'
+version: ${project.version}
+author: MrFlacko
+main: 'Master.java'

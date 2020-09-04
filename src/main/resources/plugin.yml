@@ -1,0 +1,4 @@
+name: 'tmp'
+version: ${project.version}
+author: MrFlacko
+main: 'Master.java'
