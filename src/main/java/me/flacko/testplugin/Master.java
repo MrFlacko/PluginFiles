@@ -1,4 +1,4 @@
-package me.flacko.testplugin;
+package me.flacko.tmp;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
